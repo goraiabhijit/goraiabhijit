@@ -1,5 +1,5 @@
 - 👋 Hi, I’m abhijit gorai
-- 👀 I’m interested in opensource | web-development| CP
+- 👀 I’m interested in opensource | web-development| app-development | AI
 - 🌱 I’m currently learning MERN stack
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
